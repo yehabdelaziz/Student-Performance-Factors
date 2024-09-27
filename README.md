@@ -3,7 +3,12 @@ Data set obtained from kaggle : https://www.kaggle.com/datasets/lainguyn123/stud
 Number of data rows: 6607\
 Number of columns: 20\
 
-The code is written in python with the following modules: pandas, numpy, matplotlib.pyplot,seaborn, scipy
+The code is written in python with the following modules:
+*pandas 
+*numpy
+*matplotlib.pyplot
+*seaborn 
+*scipy
 ### Information contained in the data about the student
 - Hours Studied                 
 - Attendance                    
