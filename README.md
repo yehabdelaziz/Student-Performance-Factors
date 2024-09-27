@@ -1,6 +1,7 @@
 # Analysis of the Student performance
 Data set obtained from kaggle : https://www.kaggle.com/datasets/lainguyn123/student-performance-factors/
 Number of data rows: 6607
+
 Number of columns: 20
 ### Information contained in the data about the student
 - Hours Studied                 
