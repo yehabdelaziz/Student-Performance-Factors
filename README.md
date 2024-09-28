@@ -31,5 +31,5 @@ The code is written in python with the following modules:
 - Gender                        
 - Exam Score        
 
-
+### Analysis strategy
 The first step in this analysis is an exploration of the data set found in the file data_exploration.ipynb
