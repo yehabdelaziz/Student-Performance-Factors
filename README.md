@@ -32,4 +32,7 @@ The code is written in python with the following modules:
 - Exam Score        
 
 ### Analysis strategy
-The first step in this analysis is an exploration of the data set found in the file data_exploration.ipynb
+The first step in this analysis is an exploration of the data set found in the file data_exploration.ipynb\
+The second step is to determine which features or columns are related to the overall score in the file data_analysis.ipynb\
+The third step is to train a linear regression model to predict the exam scores in model_training.ipynb
+
